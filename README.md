@@ -1,4 +1,4 @@
-# ECG Signal-to-Image Arrhythmia Classification
+[Signal-to-Image-Translation-Model-for-ECG-Based-Heartbeat-Classification.pptx](https://github.com/user-attachments/files/24339843/Signal-to-Image-Translation-Model-for-ECG-Based-Heartbeat-Classification.pptx)# ECG Signal-to-Image Arrhythmia Classification
 
 This project presents a hybrid deep learning pipeline that converts 1D ECG signals into 2D spectrogram images and classifies heartbeats using a Convolutional Neural Network (CNN).
 
@@ -21,6 +21,7 @@ Manual ECG interpretation is time-consuming and prone to bias. Traditional 1D si
 - Conv2D + ReLU + BatchNorm + MaxPooling (×3)
 - Dense(128) + Dropout(0.5)
 - Softmax Output (3 classes)
+
 
 ## 📊 Results
 | Metric | Value |
@@ -46,3 +47,5 @@ Python, TensorFlow/Keras, NumPy, Librosa, OpenCV, Scikit-learn, Matplotlib
 Course Project — AI & ML  
 IIIT Allahabad  
 Guided by **Dr. Shanti Chandra**
+
+[Uploading Signal-to-Image-Translation-Model-for-ECG-Based-Heartbeat-Classification.pptx…]()
