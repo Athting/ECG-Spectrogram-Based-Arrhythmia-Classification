@@ -49,5 +49,5 @@ Course Project — AI & ML
 IIIT Allahabad  
 Guided by **Dr. Shanti Chandra**
 
-[Uploading Signal-to-Image-Translation-Model-for-ECG-Based-Heartbeat-Classification.pptx…]()
+
 
